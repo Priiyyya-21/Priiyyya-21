@@ -1,5 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Priya</h1>
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<h2 align="center">Stats</h2>
+
+| <a href="https://github.com/Priiyyya-21"><img align="center" src="https://streak-stats.demolab.com/?user=Priiyyya-21&theme=highcontrast" alt="Priya's github stats" /></a> |  <a href="https://github.com/Priiyyya-21"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Priiyyya-21&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Priya's github stats" /></a> |
+| ------------- | ------------- |
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
 
