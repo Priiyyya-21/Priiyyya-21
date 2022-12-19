@@ -1,7 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Priya</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiru09" alt="chiru09" /></a> </p>
+
+- 🔭 I’m currently studying in [NIT Jamshedpur](https://www.nitjsr.ac.in/)
+
+- 🌱 I’m currently learning **Web Development, React and NodeJS**
+
+- 📫 How to reach me [Click here](https://www.linkedin.com/in/priya-majhi/)
+
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
 
 <h2 align="center">Stats</h2>
 
