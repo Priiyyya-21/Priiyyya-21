@@ -8,6 +8,8 @@
 
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/priya-majhi/)
 
+- 👩‍💻 More about me 👉 [Portfolio](https://priiyyya-21.github.io/portfolio/)
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">Languages and Tools:</h2>
@@ -64,9 +66,13 @@
 
  </a>
  <a href="mailto:priyamajhi79@gmail.com">
-   <img alt="Priya" src="https://img.shields.io/badge/-Email-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyamajhi79@gmail.com" />
+   <img alt="Priya" src="https://img.shields.io/badge/-Mail-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyamajhi79@gmail.com" />
  </a>
  
+ <a href="https://priiyyya-21.github.io/portfolio/">
+   <img alt="Priya" src="https://img.shields.io/badge/-🌐Website-black?style=flat-square&logo=web&logoColor=white&link=https://priiyyya-21.github.io/portfolio/" />
+ </a>
+   
  <a href="https://github.com/Priiyyya-21">
    <img alt="Priya" src="https://img.shields.io/github/followers/Priiyyya-21?label=follow&style=social" />
  </a>   
